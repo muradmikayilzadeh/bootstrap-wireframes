@@ -1,0 +1,56 @@
+.row section{
+	margin-top:30px;
+}
+
+/*First div style*/
+#firstDiv .col-md-12{
+	height:100px;
+	background:cyan;
+}
+
+/*Second div style*/
+
+#secondDiv #hero{
+	height:200px;
+	background:purple;
+}
+
+#secondDiv #sidebar{
+	height:350px;
+	margin-top:30px;
+	background: lightgreen;
+}
+
+#secondDiv #main-content{
+	height:400px;
+	background: orange;
+}
+
+#secondDiv #extra-content{
+	height:150px;
+	background: gray;
+	margin-top:30px;
+}
+
+
+/*Third div style*/
+
+#thirdDiv .room .col-md-12{
+	height:300px;
+}
+
+	#thirdDiv .room:first-child .col-md-12{
+		background:green;
+	}
+
+	#thirdDiv .room:last-child .col-md-12{
+		background:pink;
+	}
+
+
+/*Fourth div style*/
+
+#fourthDiv .col-md-12{
+	height:100px;
+	background: orange;
+}
