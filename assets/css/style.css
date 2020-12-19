@@ -1,0 +1,27 @@
+.row section{
+	margin-top:20px;
+}
+
+
+#firstDiv .col-md-12{
+	background:pink;
+	height:200px;
+}
+
+
+#secondDiv .room .col-md-12{
+	background:red;
+	height:200px;
+}
+
+
+#thirdDiv .room .col-md-12{
+	background:cyan;
+	height:200px;
+}
+
+
+#fourthDiv .room .col-md-12{
+	background: green;
+	height:200px;
+}
